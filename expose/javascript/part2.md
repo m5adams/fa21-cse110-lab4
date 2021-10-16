@@ -34,6 +34,6 @@ f. true, boolean assigned true because it has a nonzero value </li>
 <li> js file </li>
 <li> This results in [2, 4, 6]. The function iterates through an array and multiplies each element by 2, returning the resulting array.  </li>
 <li> js file </li>
-<li> 1 4 2 3
+<li> 1432 </li>
 
 </ol>
